@@ -1,6 +1,6 @@
+
 # 💫 About Me:
 Currently Studying B.Tech at JG University 
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/takshhh999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TakshkumarPatel.) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TakshPa91551564) 
@@ -22,3 +22,6 @@ Currently Studying B.Tech at JG University
 [![](https://visitcount.itsvg.in/api?id=TakshkumarPatel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/TakshkumarPatel/TakshkumarPatel/blob/output/github-snake.svg)
+
