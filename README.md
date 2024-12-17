@@ -23,5 +23,5 @@ Currently Studying B.Tech at JG University
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/TakshkumarPatel/TakshkumarPatel/blob/output/github-snake.svg)
+![snake gif](https://github.com/TakshkumarPatel/TakshkumarPatel/blob/output/github-snake-dark.svg)
 
